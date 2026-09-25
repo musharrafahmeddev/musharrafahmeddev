@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehmeee&label=Profile%20views&color=0e75b6&style=flat" alt="rehmeee" /> </p>
 
-- 🌱 I’m currently working on  **Computer Architecture, Agentic AI, RAG, & Networking**
+- 🌱 I’m currently working on  **Full Stack Software Development and AI Engineering**
   
-- 💻 My Stacks **MERN, Django/REST, FAST API, NextJS, RAG, AGENTIC AI**
-
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 💻 My Stacks **MERN, React Native, Node, Python, FastAPI, Django, NextJS, RAG, AGENTIC AI**
 
 - 📫 How to reach me **mailto:musharrafahmeddev@gmail.com**
 
